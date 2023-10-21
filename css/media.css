@@ -1,0 +1,526 @@
+@media (max-width: 576px) {
+    .container {
+        max-width: 576px !important;
+    }
+
+    .navbar-nav {
+        padding-left: 1rem;
+    }
+    .mobile {
+        width: 80% !important;
+    }
+
+    .btn-on-image {
+        height: auto;
+    }
+    .parents_proccesing p{
+        font-size: 14px;
+    }
+    .text-w {
+        margin: 10px !important;
+        font-size: 20px !important;
+    }
+
+    .slide-three {
+        width: 310px !important;
+    }
+
+    .slide-one .mb-5 {
+        margin-bottom: 0 !important;
+    }
+
+    .img-fluid {
+        width: max-content !important;
+    }
+
+    .row {
+        margin: 0 !important;
+        margin-bottom: 1.5rem !important;
+    }
+
+    .row10 {
+        flex-direction: column;
+        align-items: center;
+        flex-wrap: wrap;
+    }
+
+    .question10 {
+        width: 70% !important;
+    }
+
+    .button-finish {
+        width: 50% !important;
+    }
+
+    .btn-on-biggest {
+        width: auto !important;
+        height: auto !important;
+    }
+
+    .survey-container {
+        margin: 10px !important;
+    }
+
+    .hidden {
+        display: none !important;
+    }
+
+    .cont-name-text {
+        text-align: center;
+        margin: 0 !important;
+        font-size: 35px !important;
+        font-weight: 700 !important;
+        -webkit-text-stroke: 0 !important;
+    }
+
+    .div-to-right {
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-left: 0 !important;
+
+    }
+
+    .text-win {
+        font-size: 18px !important;
+    }
+
+    .column-revers-mobile {
+        display: flex !important;
+        flex-direction: column-reverse !important;
+    }
+
+    .image-container {
+        position: relative !important;
+        left: 12% !important;
+        bottom: 50% !important;
+    }
+    .slides_text {
+        right: 30% !important;
+    }
+    .parallelogram {
+        margin-top: 80px;
+    }
+
+    .btn-in-teacher {
+        max-width: unset !important;
+        width: auto !important;
+    }
+
+    .slide-two > .owl-stage-outer {
+        max-height: max-content !important;
+        height: max-content !important;
+    }
+
+    .column-mobile {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+
+    .h2_win {
+        margin-left: 0 !important;
+        float: none !important;
+    }
+
+
+
+    .video {
+        width: 85% !important;
+        margin-bottom: 2rem !important;;
+        margin-right: 0 !important;
+    }
+
+    .slide-two {
+        margin-top: 2em;
+        width: 90%;
+        top: 0 !important;
+        left: 0 !important;
+    }
+
+    .div_proccesing {
+        margin-bottom: 1rem !important;
+    }
+
+    .slides_text {
+
+    }
+
+    .text-primary {
+        font-size: 35px !important;
+        font-weight: 400 !important;
+    }
+
+    .accordion {
+        margin: 10px !important;
+    }
+
+
+    .div-to-left {
+        width: 100% !important;
+    }
+    .div_proccesing {
+        width: 80%;
+    }
+    .for-desktop {
+        display: none !important;
+    }
+    .for-mobile {
+        display: block !important;
+    }
+
+}
+@media (max-width: 965px) {
+
+
+}
+@media screen and (min-width: 576px) {
+    .for-mobile {
+        display: none !important;
+    }
+}
+@media (max-width: 768px) {
+    .ornament::before {
+        /*background-image: none;*/
+        opacity: 0.7;
+    }
+
+
+    .image-container {
+        position: relative !important;
+        left: 23%;
+        bottom: 50% !important;
+    }
+    .phone-input-container {
+        width: 80% !important;
+    }
+    .win-mobile {
+        margin-bottom: 0 !important;
+        width: 41% !important;
+    }
+    .lastQuestion {
+        max-width: 100%;
+        margin: 10px
+    }
+    .size-faq {
+        max-width: 90%;
+    }
+
+    .div_proccesing {
+        margin-bottom: 1rem;
+    }
+    .parallelogram {
+        margin-top: 80px;
+    }
+
+    .hidden {
+        display: none !important;
+    }
+
+    .div-to-right {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+    }
+
+    .slide-three {
+        width: 550px;
+        margin-top: 1rem !important;
+    }
+    .quiz {
+        max-width: 95%;
+    }
+    .question10 {
+        width: 40%;
+    }
+    .row {
+        --bs-gutter-x: 0;
+    }
+
+    .teacher {
+        margin-right: 100rem;
+        width: 300px;
+    }
+
+    .slide-one .mb-5 {
+        margin-bottom: 0 !important;
+    }
+
+    .img-fluid {
+        width: max-content !important;
+    }
+
+    .div-to-right {
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-left: 0 !important;
+    }
+
+
+    .text-w {
+        margin-left: 20px !important;
+    }
+
+    .paginations {
+        display: none !important;
+        margin-bottom: 1rem !important;
+    }
+
+    .btn-on-biggest {
+        width: auto;
+        height: auto;
+    }
+
+    .left_proccesing {
+        float: none;
+        margin-left: 0;
+    }
+
+    .right_proccesing {
+        float: none;
+        margin-right: 0;
+    }
+
+
+
+    .parents_proccesing {
+        display: contents;
+    }
+}
+
+
+@media (min-width: 576px) {
+    .container {
+        max-width: 100% !important;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        max-width: 100% !important;
+    }
+    .div_proccesing {
+        margin-bottom: 1rem;
+    }
+
+    .hidden {
+        display: none !important;
+    }
+    .for-desktop {
+        display: block !important;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .lastQuestion {
+        max-width: 806px;
+    }
+    .image-container {
+        left: 60%;
+    }
+    .left_proccesing {
+        margin-left: 25%;
+    }
+
+    .right_proccesing {
+        margin-right: 25%;
+    }
+    .hidden {
+        display: none !important;
+    }
+}
+
+@media (max-width: 1400px) {
+    .ornament::before {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .left_proccesing {
+        margin-left: 15%;
+    }
+
+    .right_proccesing {
+        margin-right: 15%;
+    }
+}
+@media (min-width: 1200px) {
+    .container {
+        max-width: 100% !important;
+    }
+
+    .div_proccesing {
+        margin-bottom: 1rem;
+    }
+
+    .hidden {
+        display: initial !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .chabarok__main__images__img__shade2 {
+        width: 100%;
+    }
+    .image-mobile {
+        left: 25% ;
+    }
+    .for-desktop {
+        display: none !important;
+    }
+    .for-mobile {
+        display: block !important;
+    }
+    .div-to-right::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background-image: url(../images/fon1.png);
+        background-size: cover;
+        opacity: 0.05; /* Установите значение между 0 и 1 для желаемой прозрачности фона */
+        z-index: -1; /* Установите более низкий z-index для псевдоэлемента */
+    }
+    .text-w {
+        margin: 10px;
+        margin-left: 30px;
+        font-size: 20px;
+    }
+    .column-revers-mobile {
+        display: flex !important;
+        flex-direction: column-reverse !important;
+    }
+    .column-mobile {
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .div-video {
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-left: 0 !important;
+    }
+    .div-to-right {
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        justify-content: center !important;
+        align-items: center !important;
+        padding-left: 0 !important;
+    }
+    .slide-two > .owl-stage-outer {
+        max-height: max-content !important;
+        height: max-content !important;
+    }
+
+
+    .image-container {
+        position: relative !important;
+        left: 20%;
+        bottom: 75%;
+    }
+
+    .parallelogram {
+        margin-top:  75px;
+    }
+    .video {
+        width: 85% !important;
+        margin-bottom: 2rem !important;;
+        margin-right: 0 !important;
+    }
+
+    .slide-two {
+        margin-top: 2em;
+        width: 90%;
+        top: 0 !important;
+        left: 0 !important;
+    }
+
+    .div_proccesing {
+        margin-bottom: 1rem;
+    }
+
+    .slides_text {
+        margin-top: 12rem !important;
+        right: 25% !important;
+        position: absolute !important;
+    }
+
+    .slide-one .mb-5 {
+        margin-bottom: 0 !important;
+    }
+
+    .img-fluid {
+        width: max-content !important;
+        height: auto !important;
+    }
+    .left_proccesing {
+        margin-left: 0 !important;
+    }
+
+    .right_proccesing {
+        margin-right: 0 !important;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .for-table {
+        display: none !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .parents_proccesing {
+        display: contents;
+    }
+    .image-container {
+        display: none !important;
+    }
+
+    .btn-on-image {
+        width: auto;
+        height: auto;
+    }
+
+    .video {
+        width: 60%;
+    }
+
+    .slide-two {
+        margin: 1em 0 1em 0;
+    }
+
+}
+
+@media (max-width: 1600px) {
+    .div-video {
+        width: 30%;
+    }
+    .div-to-left {
+        width: 70%;
+    }
+    .person{
+        width: 60% !important;
+    }
+}
+@media (max-width: 1400px) {
+    .div-video {
+        width: 30%;
+    }
+    .div-to-left {
+        width: 70%;
+    }
+    .person{
+        width: 70% !important;
+    }
+}
+

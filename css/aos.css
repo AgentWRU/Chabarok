@@ -1,0 +1,15 @@
+[data-aos][data-aos][data-aos-duration="800"], body[data-aos-duration="800"] [data-aos] {
+    transition-duration: .8s;
+}
+[data-aos^=fade][data-aos^=fade].aos-animate {
+    opacity: 1;
+    transform: translate(0);
+}
+
+.border-primary h2 {
+    text-transform: uppercase;
+    font-weight: 700 !important;
+}
+.chabarok_text {
+    text-transform: none !important;
+}
